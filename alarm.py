@@ -60,4 +60,4 @@ while True:
             while pygame.mixer.music.get_busy():
                 pygame.event.get()
             i += 1
-    break
+        break
