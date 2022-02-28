@@ -4,13 +4,13 @@ Kendimi geliştirmek amacıyla yaptığım projemde "datetime", "pygame" ve "tim
 kullandığım Python dilinde yazılmış Alarm Uygulaması'nı incelediğiniz için teşekkür ederim.
 
 ## Proje Kurulumu
-'''
+```
 python -m venv env
 source env/bin/activate
 pip install pygame
 pip install time
 pip install datetime
-'''
+```
 
 ## Proje Açıklaması
   
