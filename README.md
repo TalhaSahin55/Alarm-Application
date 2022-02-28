@@ -3,6 +3,15 @@
 Kendimi geliştirmek amacıyla yaptığım projemde "datetime", "pygame" ve "time" kütüphanelerini 
 kullandığım Python dilinde yazılmış Alarm Uygulaması'nı incelediğiniz için teşekkür ederim.
 
+## Proje Kurulumu
+'''
+python -m venv env
+source env/bin/activate
+pip install pygame
+pip install time
+pip install datetime
+'''
+
 ## Proje Açıklaması
   
 - Proje saat, dakika ve saniyeyi girebildiğiniz bir alarm sistemi olacak.
